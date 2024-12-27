@@ -1,5 +1,5 @@
 @echo off
-title userbruteforce - Ebola Man
+title userbruteforce - Moxiu
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 :start
